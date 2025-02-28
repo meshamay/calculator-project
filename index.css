@@ -10,10 +10,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #000000;
+    background-color: #0f0f0f;
 }
-
-
 #container {
     position: relative;
       max-width: 300px;
